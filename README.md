@@ -4,3 +4,5 @@ Un repositorio con los algoritmos de ordenamiento mas conocidos, programados en 
 Quicksort
 
 Bubblesort
+
+Mergesort
