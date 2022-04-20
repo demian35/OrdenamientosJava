@@ -6,3 +6,5 @@ Quicksort
 Bubblesort
 
 Mergesort
+
+Selectionsort
